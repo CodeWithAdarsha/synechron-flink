@@ -1,0 +1,5 @@
+com/example/flink/InputPayloadJsonDeserializationSchema.class
+com/example/flink/CsvRecordWriter.class
+com/example/flink/InputRecordSerializationSchema.class
+com/example/flink/InputPayload.class
+com/example/flink/AppDemo.class
